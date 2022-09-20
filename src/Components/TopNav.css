@@ -1,0 +1,414 @@
+.top{
+    height: 96px;
+max-width: 100%;
+left: 0px;
+top: 5px;
+border-radius: 0px;
+position: absolute;
+left: 0%;
+right: -0.42%;
+top: 0.46%;
+bottom: 90.65%;
+border-bottom: 3px solid lightgray;
+background: #FFFFFF;
+
+}
+
+.job-logo{
+    position: absolute;
+left: 18.65%;
+right: 80.33%;
+top: 3.88%;
+bottom: 94%;
+
+height: 22.94300079345703px;
+width: 18px;
+left: 310px;
+top: 41.88671875px;
+border-radius: 0px;
+
+}
+
+.my-job {
+    height: 25px;
+width: 69px;
+
+border-radius: nullpx;
+font-family: Segoe UI;
+font-size: 19px;
+letter-spacing: 0em;
+text-align: left;
+font-family: 'Segoe UI';
+font-style: normal;
+position: absolute;
+cursor: pointer;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+left: 335px;
+top: 28px;
+color: #6D6D6D;
+}
+
+.talent {
+    position: absolute;
+    left: 25.99%;
+    right: 72.67%;
+    top: 3.89%;
+    bottom: 94%;
+    height: 22.8280029296875px;
+    width: 20px;
+    left: 430px;
+    top: 45px;
+    border-radius: 0px;
+ 
+}
+
+.my-talent {
+    position: absolute;
+left: 27.71%;
+right: 67.66%;
+top: 3.89%;
+bottom: 93.8%;
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+cursor: pointer;
+color: #6D6D6D;
+height: 25px;
+width: 89px;
+left: 455px;
+top: 28px;
+border-radius: nullpx;
+
+}
+
+.message {
+    position: absolute;
+left: 34.69%;
+right: 64.14%;
+top: 3.89%;
+bottom: 94.01%;
+height: 22.740999221801758px;
+width: 22.511999130249023px;
+left: 570px;
+top: 45px;
+border-radius: 0px;
+
+}
+
+.messenger {
+    font-family: Segoe UI;
+font-size: 19px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+left: 36.25%;
+right: 59.64%;
+top: 3.89%;
+bottom: 93.8%;
+cursor: pointer;
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+height: 25px;
+width: 79px;
+left: 600px;
+top: 28px;
+border-radius: nullpx;
+color: #6D6D6D;
+}
+
+.order {
+    font-family: Segoe UI;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    left: 36.25%;
+    right: 59.64%;
+    top: 3.89%;
+    bottom: 93.8%;
+    cursor: pointer;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    height: 25px;
+    width: 79px;
+    left: 750px;
+    top: 28px;
+    border-radius: nullpx;
+    color: #6D6D6D;
+}
+.contact {
+    font-family: Segoe UI;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    left: 36.25%;
+    right: 59.64%;
+    top: 3.89%;
+    bottom: 93.8%;
+    cursor: pointer;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    height: 25px;
+    width: 79px;
+    left: 900px;
+    top: 28px;
+    border-radius: nullpx;
+    color: #6D6D6D;
+}
+
+.phone-div {
+    position: absolute;
+    left: 51.09%;
+    right: 35.94%;
+    top: 2.96%;
+    bottom: 93.06%;
+ 
+    background: #FFFFFF;
+    height: 40px;
+width: 220px;
+left: 770px;
+top: 32px;
+border-radius: 0px;
+-webkit-box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+
+}
+
+.phone-div2 {
+    position: absolute;
+left: 51.09%;
+right: 45.78%;
+top: 2.96%;
+background: rgba(109, 109, 109, 0.14);
+opacity: 0.73;
+height: 43px;
+width: 60px;
+left:-1px;
+top: -1px;
+border-radius: 0px;
+
+}
+
+.phone {
+    position: absolute;
+left: 52.08%;
+right: 46.79%;
+top: 3.98%;
+bottom: 94.01%;
+height: 18px;
+width: 18px;
+left: 18px;
+top: 13px;
+border-radius: 0px;
+
+}
+
+.num{
+    position: absolute;
+left: 54.95%;
+right: 38.07%;
+top: 3.98%;
+bottom: 93.8%;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #6D6D6D;
+height: 20px;
+width: 134px;
+left:70px;
+top: -8px;
+border-radius: nullpx;
+
+}
+
+.arrow {
+    position: absolute;
+left: 62.76%;
+right: 36.38%;
+top: 4.44%;
+bottom: 94.6%;
+
+height: 9px;
+width: 15px;
+left:190px;
+top: 16px;
+border-radius: 0px;
+
+}
+
+.inr-div {
+    position: absolute;
+left: 66.09%;
+right: 28.07%;
+top: 2.96%;
+bottom: 93.06%;
+height: 40px;
+width: 112px;
+left: 1000px;
+top: 32px;
+border-radius: 0px;
+
+-webkit-box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+box-shadow: 4px 6px 5px -4px rgba(0,0,0,0.75);
+}
+.inr{
+    position: absolute;
+left: 67.08%;
+right: 30.62%;
+top: 3.89%;
+bottom: 93.89%;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #6D6D6D;
+height: 24px;
+width: 44px;
+left: 25px;
+top: -4px;
+border-radius: nullpx;
+
+}
+
+.arrow-inr {
+    position: absolute;
+left: 70.05%;
+right: 29.09%;
+top: 4.44%;
+bottom: 94.6%;
+
+height: 10.299999237060547px;
+width: 14px;
+left: 80px;
+top: 20px;
+border-radius: 0px;
+
+}
+
+.post-job {
+    position: absolute;
+left: 73.96%;
+right: 17.86%;
+top: 2.96%;
+bottom: 93.06%;
+
+background: #4EA647;
+height: 40px;
+width: 150px;
+left: 1135px;
+top: 35px;
+border-radius: 5px;
+border: none;
+position: absolute;
+
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+letter-spacing: 0em;
+
+}
+
+.user {
+    position: absolute;
+left: 90.26%;
+right: 8.05%;
+top: 3.43%;
+bottom: 93.57%;
+height: 25px;
+width: 25px;
+left: 1370px;
+top: 43px;
+border-radius: 0px;
+
+}
+
+.user2 {
+    position: absolute;
+left: 90.77%;
+right: 8.55%;
+top: 4.03%;
+bottom: 94.77%;
+height: 13.003386497497559px;
+width: 13.003386497497559px;
+left: 1380px;
+top: 50px;
+border-radius: 0px;
+
+}
+
+.pro-name {
+    position: absolute;
+left: 92.5%;
+right: 4.32%;
+top: 3.89%;
+bottom: 93.8%;
+
+font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+
+color: #565454;
+
+height: 25px;
+width: 61px;
+left: 1350px;
+top: 25px;
+border-radius: nullpx;
+
+}
+
+.shopping {
+    position: absolute;
+    left: 70.05%;
+    right: 29.09%;
+    top: 4.44%;
+    bottom: 94.6%;
+    
+    height: 50px;
+    width: 50px;
+    left: 1440px;
+    top: 19px;
+    border-radius: 0px;
+}
