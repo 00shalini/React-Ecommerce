@@ -1,8 +1,11 @@
 import React from 'react'
+import TopNav from '../Components/TopNav'
 
 const Order = () => {
   return (
-    <div>Order</div>
+    <div>
+        <TopNav/>
+    </div>
   )
 }
 

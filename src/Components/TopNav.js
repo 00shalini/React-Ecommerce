@@ -1,12 +1,4 @@
 import React from "react";
-import talent from "../assets/icons/talent.png";
-import FINPLOY from "../assets/icons/FINPLOY.png";
-import job from "../assets/icons/job.png";
-import messanger from "../assets/icons/messanger.png";
-import phone from "../assets/icons/phone.png";
-import arrow from "../assets/icons/arrow.png";
-import user from "../assets/icons/user.png";
-import user2 from "../assets/icons/user2.png";
 import logo from "../assets/icons/logo.png";
 import shopping from '../assets/icons/shopping.png';
 import "./TopNav.css";

@@ -1,8 +1,11 @@
 import React from 'react'
+import TopNav from '../Components/TopNav'
 
 const Shop = () => {
   return (
-    <div>Shop</div>
+    <div>
+      <TopNav/>
+    </div>
   )
 }
 

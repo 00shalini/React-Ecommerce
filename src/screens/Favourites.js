@@ -1,8 +1,11 @@
 import React from 'react'
+import TopNav from '../Components/TopNav'
 
 const Favourites = () => {
   return (
-    <div>Favourites</div>
+    <div>
+        <TopNav/>
+    </div>
   )
 }
 

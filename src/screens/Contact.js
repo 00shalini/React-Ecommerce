@@ -1,8 +1,10 @@
 import React from 'react'
-
+import TopNav from '../Components/TopNav'
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+        <TopNav/>
+    </div>
   )
 }
 
